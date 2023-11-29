@@ -139,6 +139,10 @@ function App() {
         </div>
       </div>
 
+      <footer>
+        Diseño y Desarrollo <a href='https://portafolio-2021.vercel.app/' target='_blank'> © Daniel Mena</a>
+      </footer>
+
     </div>
   );
 }
